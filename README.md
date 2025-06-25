@@ -33,6 +33,18 @@ Hi, I’m Robin Ahmed — a Full Stack Web Developer specializing in the MERN st
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=robinahmed12&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+## 📊 GitHub Stats
+<div>
+
+![Robin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robinahmed12&show_icons=true&theme=radical&border_radius=15&hide_border=true)
+
+![Robin's GitHub Streak](https://streak-stats.demolab.com/?user=robinahmed12&theme=radical&border_radius=15&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinahmed12&layout=compact&theme=radical&border_radius=15&hide_border=true)
+
+</div>
+
+
 
 
 ### 📫 Let's Connect!  
