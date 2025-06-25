@@ -34,8 +34,8 @@ Hi, I’m Robin Ahmed — a Full Stack Web Developer specializing in the MERN st
 ## 📈 GitHub Stats
 
 <!-- GitHub Stats Visualization (Theme Auto-Switching) -->
-<p align="center">
-  <a href="https://github.com/jstrieb/github-stats">
+<p>
+  <a href="https://github.com/robinahmed12/github-stats">
     <!-- Dark Mode -->
     <img src="https://raw.githubusercontent.com/robinahmed12/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
     <img src="https://raw.githubusercontent.com/robinahmed12/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
