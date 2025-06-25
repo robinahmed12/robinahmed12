@@ -5,6 +5,17 @@
 Hi, I’m Robin Ahmed — a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js) and modern styling with Tailwind CSS. I’m passionate about building scalable, user-friendly web applications that solve real-world problems. I enjoy learning new technologies and continuously improving my skills to deliver high-quality solutions.
 
 
+### **Current Projects & Activities**  
+⚡ **Parcel Delivery Platform**  
+   - **Tech Stack:** React, JavaScript, Tailwind CSS, MongoDB, Express.js  
+   - A platform for managing and tracking parcel deliveries.  
+
+⚡ **Job Connect Web App**  
+   - **Tech Stack:** React, JavaScript, Tailwind CSS, MongoDB, Express.js  
+   - A web application connecting job seekers with employers.  
+
+
+
 # 🛠️ Tech Stack
 
 ## 🚀 Frontend
