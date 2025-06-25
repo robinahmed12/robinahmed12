@@ -1,4 +1,4 @@
-# 💫 About Me:
+[Robin Ahmed](https://i.ibb.co/99TyHqJj/Black-Modern-Personal-Linked-In-Banner.png)
 Hi, I’m Robin Ahmed — a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js) and modern styling with Tailwind CSS. I’m passionate about building scalable, user-friendly web applications that solve real-world problems. I enjoy learning new technologies and continuously improving my skills to deliver high-quality solutions.
 
 
