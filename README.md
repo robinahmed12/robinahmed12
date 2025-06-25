@@ -18,31 +18,22 @@ Hi, I’m Robin Ahmed — a Full Stack Web Developer specializing in the MERN st
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
+
 ## 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ## 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=robinahmed12&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=robinahmed12&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=robinahmed12&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-## 📊 GitHub Stats
-<div>
-
-![Robin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robinahmed12&show_icons=true&theme=radical&border_radius=15&hide_border=true)
-
-![Robin's GitHub Streak](https://streak-stats.demolab.com/?user=robinahmed12&theme=radical&border_radius=15&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinahmed12&layout=compact&theme=radical&border_radius=15&hide_border=true)
-
-</div>
 
 
 
