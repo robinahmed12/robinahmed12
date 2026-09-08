@@ -31,18 +31,24 @@
 
 ```txt
 Full Stack Developer | Angular | React.js | Next.js | Node.js | Express.js | .NET Core Web API
+```
+
+</div>
 
 ---
 
 ## About Me
 
+```ts
 const developer = {
   name: "Robin Ahmed",
   title: "Full Stack Developer",
   currentRole: "Junior Software Developer",
-  frontend: ["React.js", "Next.js", "Angular", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js", "REST API", "JWT", ".NET Core Web API"],
+  frontend: ["HTML", "CSS", "JavaScript", "React.js", "Next.js", "Angular", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js", "REST API", "JWT Authentication", ".NET Core Web API"],
   database: ["PostgreSQL", "SQL Server", "MongoDB"],
+  orm: ["Prisma", "EF Core"],
+  tools: ["Git", "GitHub", "Figma", "VS Code", "Chrome DevTools"],
   focus: "Building clean, scalable, and user-friendly web applications",
 };
 ```
@@ -123,8 +129,6 @@ I enjoy creating responsive user interfaces, developing backend APIs, working wi
 04. Practicing clean and maintainable code
 05. Learning scalable project structure and modern development workflow
 ```
-
----
 
 ---
 
@@ -217,6 +221,9 @@ I enjoy creating responsive user interfaces, developing backend APIs, working wi
 Readable code is better than clever code.
 Simple structure is better than confusing architecture.
 Consistent improvement is better than waiting for perfection.
+```
+
+</div>
 
 ---
 
@@ -227,11 +234,13 @@ Consistent improvement is better than waiting for perfection.
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robinahmed12&theme=tokyonight" />
 
 <br />
+<br />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robinahmed12&theme=tokyonight" />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robinahmed12&theme=tokyonight" />
 
+<br />
 <br />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robinahmed12&theme=tokyonight" />
