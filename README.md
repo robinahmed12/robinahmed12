@@ -1,18 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Robin%20Ahmed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Angular%20%7C%20MERN%20Stack&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:03001C,45:301E67,75:5B8FB9,100:B6EADA&text=Robin%20Ahmed&fontSize=52&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=1&desc=Full%20Stack%20Developer%20%7C%20Angular%20%7C%20MERN%20Stack%20%7C%20.NET%20Core%20Web%20API&descSize=17&descAlignY=68" />
 
 </div>
 
 <div align="center">
 
-# Full Stack Developer
+<br />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Angular+%7C+React.js+%7C+Next.js;Node.js+%7C+Express.js+%7C+.NET+Core+Web+API;Clean+Code+%7C+REST+API+%7C+Responsive+Design" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2600&pause=900&color=B6EADA&center=true&vCenter=true&width=850&lines=Turning+ideas+into+scalable+web+applications;Building+frontend+experiences+with+Angular+%26+React;Developing+REST+APIs+with+Node.js+%26+.NET+Core;Writing+clean%2C+maintainable+and+production-ready+code" alt="Typing SVG" />
+
+<br />
+<br />
+
+<a href="https://www.linkedin.com/in/robinahmed12/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/robin.ahmed.dev">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=robinahmed12&style=for-the-badge&color=5B8FB9" />
 
 </div>
+
+<br />
+
+<div align="center">
+
+```txt
+Full Stack Developer | Angular | React.js | Next.js | Node.js | Express.js | .NET Core Web API
 
 ---
 
@@ -169,11 +187,23 @@ I enjoy creating responsive user interfaces, developing backend APIs, working wi
 
 ---
 
-## Contribution Activity
+## GitHub Contribution Summary
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=robinahmed12&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robinahmed12&theme=tokyonight" />
+
+<br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robinahmed12&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robinahmed12&theme=tokyonight" />
+
+<br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robinahmed12&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robinahmed12&theme=tokyonight&utcOffset=6" />
 
 </div>
 
@@ -183,12 +213,70 @@ I enjoy creating responsive user interfaces, developing backend APIs, working wi
 
 <div align="center">
 
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.linkedin.com/in/robinahmed12/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
+        <br />
+        <strong>LinkedIn</strong>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/robinahmed12">
+        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
+        <br />
+        <strong>GitHub</strong>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.facebook.com/robin.ahmed.dev">
+        <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="45" height="45" />
+        <br />
+        <strong>Facebook</strong>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://wa.me/YOUR_WHATSAPP_NUMBER_HERE">
+        <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="45" height="45" />
+        <br />
+        <strong>WhatsApp</strong>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="YOUR_RESUME_LINK_HERE">
+        <img src="https://img.icons8.com/fluency/48/resume.png" width="45" height="45" />
+        <br />
+        <strong>Resume</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br />
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/robinahmed12/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/robinahmed12">
+  <img src="https://img.shields.io/badge/View_My_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.facebook.com/robin.ahmed.dev">
-  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Follow_Me-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://wa.me/YOUR_WHATSAPP_NUMBER_HERE">
+  <img src="https://img.shields.io/badge/Chat_on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="YOUR_RESUME_LINK_HERE">
+  <img src="https://img.shields.io/badge/Download-Resume-2C5364?style=for-the-badge&logo=readme&logoColor=white" />
 </a>
 
 </div>
@@ -197,6 +285,15 @@ I enjoy creating responsive user interfaces, developing backend APIs, working wi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&section=footer" />
+
+<br />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=5B8FB9&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile;Let's+build+something+great+together;Code.+Learn.+Build.+Improve." alt="Footer Typing SVG" />
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" />
 
 </div>
