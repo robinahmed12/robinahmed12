@@ -14,11 +14,11 @@
 <br />
 
 <a href="https://www.linkedin.com/in/robinahmed12/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/robin.ahmed.dev">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<a href="YOUR_RESUME_LINK_HERE">
+  <img src="https://img.shields.io/badge/Download-Resume-2C5364?style=for-the-badge&logo=readme&logoColor=white" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=robinahmed12&style=for-the-badge&color=5B8FB9" />
@@ -36,7 +36,6 @@ Full Stack Developer | Angular | React.js | Next.js | Node.js | Express.js | .NE
 
 ## About Me
 
-```ts
 const developer = {
   name: "Robin Ahmed",
   title: "Full Stack Developer",
@@ -127,35 +126,6 @@ I enjoy creating responsive user interfaces, developing backend APIs, working wi
 
 ---
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Parcel Delivery Platform</h3>
-      <p>
-        A parcel management platform for managing delivery operations,
-        parcel tracking, and delivery status updates.
-      </p>
-      <p>
-        <strong>Tech Stack:</strong><br />
-        React.js, JavaScript, Tailwind CSS, MongoDB, Express.js
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Job Connect Web App</h3>
-      <p>
-        A job portal web application that connects job seekers with employers
-        through job posts, searching, and filtering.
-      </p>
-      <p>
-        <strong>Tech Stack:</strong><br />
-        React.js, JavaScript, Tailwind CSS, MongoDB, Express.js
-      </p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## Professional Strengths
@@ -175,13 +145,21 @@ I enjoy creating responsive user interfaces, developing backend APIs, working wi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=robinahmed12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=robinahmed12&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robinahmed12&theme=tokyonight" />
 
 <br />
+<br />
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinahmed12&theme=tokyonight&hide_border=true&layout=compact" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robinahmed12&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robinahmed12&theme=tokyonight" />
+
+<br />
+<br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robinahmed12&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robinahmed12&theme=tokyonight&utcOffset=6" />
 
 </div>
 
