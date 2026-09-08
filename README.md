@@ -141,27 +141,82 @@ I enjoy creating responsive user interfaces, developing backend APIs, working wi
 
 ---
 
-## GitHub Overview
+## Developer Identity
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robinahmed12&theme=tokyonight" />
-
-<br />
-<br />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robinahmed12&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robinahmed12&theme=tokyonight" />
-
-<br />
-<br />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robinahmed12&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robinahmed12&theme=tokyonight&utcOffset=6" />
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Frontend Mindset</h3>
+      <p align="center">
+        I build clean, responsive, and user-friendly interfaces using
+        <strong>Angular, React.js, Next.js, and Tailwind CSS</strong>.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Backend Mindset</h3>
+      <p align="center">
+        I develop REST APIs, authentication systems, and backend services using
+        <strong>Node.js, Express.js, JWT, and .NET Core Web API</strong>.
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+---
+
+## My Development Workflow
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.icons8.com/fluency/60/source-code.png" />
+      <br />
+      <strong>Plan</strong>
+      <br />
+      Understand requirements
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.icons8.com/fluency/60/code.png" />
+      <br />
+      <strong>Build</strong>
+      <br />
+      Write clean code
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.icons8.com/fluency/60/inspection.png" />
+      <br />
+      <strong>Test</strong>
+      <br />
+      Check functionality
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.icons8.com/fluency/60/rocket.png" />
+      <br />
+      <strong>Improve</strong>
+      <br />
+      Refactor and optimize
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Code Philosophy
+
+<div align="center">
+
+```txt
+Readable code is better than clever code.
+Simple structure is better than confusing architecture.
+Consistent improvement is better than waiting for perfection.
 
 ---
 
