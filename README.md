@@ -1,149 +1,138 @@
 <div align="center">
 
-![Banner](https://i.ibb.co.com/sv7zQVWV/Black-Elegant-Modern-Personal-Linked-In-Banner.png)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Robin%20Ahmed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Angular%20%7C%20MERN%20Stack&descAlignY=58&descSize=18" />
 
-<br />
+</div>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I'm Robin Ahmed
+<div align="center">
 
-## Full Stack Developer
+# Full Stack Developer
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Angular+%7C+React+%7C+Next.js+Developer;MERN+Stack+Application+Builder;REST+API+%7C+JWT+%7C+.NET+Core+Web+API;Clean+Code+%7C+Responsive+Design+%7C+Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Angular+%7C+React.js+%7C+Next.js;Node.js+%7C+Express.js+%7C+.NET+Core+Web+API;Clean+Code+%7C+REST+API+%7C+Responsive+Design" alt="Typing SVG" />
 </p>
 
 </div>
 
 ---
 
-## `whoami`
+## About Me
 
 ```ts
-const robinAhmed = {
+const developer = {
+  name: "Robin Ahmed",
   title: "Full Stack Developer",
   currentRole: "Junior Software Developer",
-  focus: ["Angular", "MERN Stack", "REST API", ".NET Core Web API"],
-  mindset: "Build clean, scalable and user-friendly software",
-  learningStyle: "Fast learner, practical builder, problem solver",
+  frontend: ["React.js", "Next.js", "Angular", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js", "REST API", "JWT", ".NET Core Web API"],
+  database: ["PostgreSQL", "SQL Server", "MongoDB"],
+  focus: "Building clean, scalable, and user-friendly web applications",
 };
 ```
 
-I am a **Full Stack Developer** who enjoys building practical, responsive, and scalable web applications.
-Currently, I work with **Angular** in a corporate environment and also build full-stack projects using the **MERN stack**.
+I am a **Full Stack Developer** currently working in a corporate environment with **Angular**, while also building full-stack applications using the **MERN Stack**.
 
-My main goal is to write clean, maintainable code and build applications that are easy to use, easy to scale, and easy to improve.
-
----
-
-## Developer Console
-
-```bash
-> frontend
-HTML | CSS | JavaScript | React.js | Next.js | Angular | Tailwind CSS | Responsive Design
-
-> backend
-Node.js | Express.js | REST API | JWT Authentication | .NET Core Web API
-
-> database
-PostgreSQL | SQL Server | MongoDB
-
-> orm
-Prisma | EF Core
-
-> tools
-Git | GitHub | Figma | VS Code | Chrome DevTools
-```
+I enjoy creating responsive user interfaces, developing backend APIs, working with databases, and improving my code quality every day.
 
 ---
 
-## Tech Arsenal
+## Developer Toolbox
 
 <table>
   <tr>
-    <td><strong>Frontend</strong></td>
+    <td width="180"><strong>Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26" />
-      <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6" />
-      <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-      <img src="https://img.shields.io/badge/React.js-111111?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Angular-111111?style=flat-square&logo=angular&logoColor=DD0031" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+      HTML, CSS, JavaScript, React.js, Next.js, Angular, Tailwind CSS, Responsive Design
     </td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=339933" />
-      <img src="https://img.shields.io/badge/Express.js-111111?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_API-111111?style=flat-square&logo=fastapi&logoColor=009688" />
-      <img src="https://img.shields.io/badge/JWT-111111?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET_Core-111111?style=flat-square&logo=dotnet&logoColor=512BD4" />
+      Node.js, Express.js, REST API, JWT Authentication, .NET Core Web API
     </td>
   </tr>
   <tr>
     <td><strong>Database</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1" />
-      <img src="https://img.shields.io/badge/SQL_Server-111111?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
-      <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248" />
+      PostgreSQL, SQL Server, MongoDB
     </td>
   </tr>
   <tr>
     <td><strong>ORM</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/EF_Core-111111?style=flat-square&logo=dotnet&logoColor=512BD4" />
+      Prisma, EF Core
     </td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" />
-      <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=F24E1E" />
-      <img src="https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
-      <img src="https://img.shields.io/badge/Chrome_DevTools-111111?style=flat-square&logo=googlechrome&logoColor=4285F4" />
+      Git, GitHub, Figma, VS Code, Chrome DevTools
     </td>
   </tr>
 </table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,tailwind" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+
+### Database & ORM
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+
+</div>
 
 ---
 
 ## Current Build Mode
 
 ```txt
-[01] Working with Angular in a corporate software environment
-[02] Building MERN stack applications
-[03] Improving REST API and backend architecture skills
-[04] Practicing clean code and reusable component design
-[05] Learning modern full-stack development workflows
+01. Working with Angular in a corporate software environment
+02. Building full-stack applications using the MERN Stack
+03. Improving REST API and backend development skills
+04. Practicing clean and maintainable code
+05. Learning scalable project structure and modern development workflow
 ```
 
 ---
 
-## Project Showcase
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%">
       <h3>Parcel Delivery Platform</h3>
       <p>
-        A full-stack parcel management system for handling delivery operations,
-        tracking parcels, and managing delivery status with a clean user interface.
+        A parcel management platform for managing delivery operations,
+        parcel tracking, and delivery status updates.
       </p>
       <p>
-        <strong>Stack:</strong> React.js, JavaScript, Tailwind CSS, MongoDB, Express.js
+        <strong>Tech Stack:</strong><br />
+        React.js, JavaScript, Tailwind CSS, MongoDB, Express.js
       </p>
     </td>
     <td width="50%">
       <h3>Job Connect Web App</h3>
       <p>
-        A job portal application that connects job seekers and employers through
-        job posts, searching, filtering, and user-friendly interaction.
+        A job portal web application that connects job seekers with employers
+        through job posts, searching, and filtering.
       </p>
       <p>
-        <strong>Stack:</strong> React.js, JavaScript, Tailwind CSS, MongoDB, Express.js
+        <strong>Tech Stack:</strong><br />
+        React.js, JavaScript, Tailwind CSS, MongoDB, Express.js
       </p>
     </td>
   </tr>
@@ -151,30 +140,40 @@ Git | GitHub | Figma | VS Code | Chrome DevTools
 
 ---
 
-## How I Work
+## Professional Strengths
 
 ```md
-- I adapt quickly when project requirements change
-- I learn new frameworks and libraries fast
-- I focus on writing clean and maintainable code
-- I care about responsive and user-friendly UI
-- I enjoy solving real project problems
-- I keep improving my frontend and backend skills
+- Adjusting to changing project requirements
+- Learning new frameworks and libraries quickly
+- Writing clean and maintainable code
+- Building responsive and user-friendly interfaces
+- Working with both frontend and backend technologies
+- Solving real-world development problems
 ```
 
 ---
 
-## GitHub Activity Board
+## GitHub Overview
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=robinahmed12&theme=github_dark&hide_border=true&show_icons=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=robinahmed12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=robinahmed12&theme=github-dark-blue&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=robinahmed12&theme=tokyonight&hide_border=true" />
 
 <br />
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinahmed12&theme=github_dark&hide_border=true&layout=compact" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinahmed12&theme=tokyonight&hide_border=true&layout=compact" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=robinahmed12&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -185,11 +184,11 @@ Git | GitHub | Figma | VS Code | Chrome DevTools
 <div align="center">
 
 <a href="https://www.linkedin.com/in/robinahmed12/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.facebook.com/robin.ahmed.dev">
-  <img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=1877F2" />
+  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 </div>
@@ -198,14 +197,6 @@ Git | GitHub | Figma | VS Code | Chrome DevTools
 
 <div align="center">
 
-### Thanks for visiting my profile
-
-<img src="https://visitcount.itsvg.in/api?id=robinahmed12&icon=5&color=12" />
-
-<br />
-
-```txt
-Code. Learn. Build. Improve. Repeat.
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
 
 </div>
