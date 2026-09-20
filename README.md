@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:03001C,45:301E67,75:5B8FB9,100:B6EADA&text=Robin%20Ahmed&fontSize=52&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=1&desc=Full%20Stack%20Developer%20%7C%20Angular%20%7C%20MERN%20Stack%20%7C%20.NET%20Core%20Web%20API&descSize=17&descAlignY=68" />
+<img src="./assest/banner.png" width="100%" />
 
 </div>
 
@@ -8,29 +8,12 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2600&pause=900&color=B6EADA&center=true&vCenter=true&width=850&lines=Turning+ideas+into+scalable+web+applications;Building+frontend+experiences+with+Angular+%26+React;Developing+REST+APIs+with+Node.js+%26+.NET+Core;Writing+clean%2C+maintainable+and+production-ready+code" alt="Typing SVG" />
 
-<br />
-<br />
-
-<a href="https://www.linkedin.com/in/robinahmed12/">
-  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="[YOUR_RESUME_LINK_HERE](https://drive.google.com/file/d/1kWlNDg0pAg1JE2KL1Kn650q5K6uru2I8/view?usp=sharing)">
-  <img src="https://img.shields.io/badge/Download-Resume-2C5364?style=for-the-badge&logo=readme&logoColor=white" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=robinahmed12&style=for-the-badge&color=5B8FB9" />
-
-</div>
-
-<br />
 
 <div align="center">
 
 ```txt
-Full Stack Developer | Angular | React.js | Next.js | Node.js | Express.js | .NET Core Web API
+Full Stack Developer | Angular | React.js | Next.js | Node.js | Express.js |
 ```
 
 </div>
@@ -71,7 +54,7 @@ I enjoy creating responsive user interfaces, developing backend APIs, working wi
   <tr>
     <td><strong>Backend</strong></td>
     <td>
-      Node.js, Express.js, REST API, JWT Authentication, .NET Core Web API
+      Node.js, Express.js, REST API, JWT Authentication,
     </td>
   </tr>
   <tr>
@@ -83,7 +66,7 @@ I enjoy creating responsive user interfaces, developing backend APIs, working wi
   <tr>
     <td><strong>ORM</strong></td>
     <td>
-      Prisma, EF Core
+      Prisma,
     </td>
   </tr>
   <tr>
@@ -106,7 +89,7 @@ I enjoy creating responsive user interfaces, developing backend APIs, working wi
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ### Database & ORM
 
@@ -162,7 +145,7 @@ I enjoy creating responsive user interfaces, developing backend APIs, working wi
       <h3 align="center">Backend Mindset</h3>
       <p align="center">
         I develop REST APIs, authentication systems, and backend services using
-        <strong>Node.js, Express.js, JWT, and .NET Core Web API</strong>.
+        <strong>Node.js, Express.js, JWT</strong>.
       </p>
     </td>
   </tr>
@@ -278,20 +261,21 @@ Consistent improvement is better than waiting for perfection.
         <strong>Facebook</strong>
       </a>
     </td>
-    <td align="center" width="120">
-      <a href="https://wa.me/YOUR_WHATSAPP_NUMBER_HERE">
-        <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="45" height="45" />
-        <br />
-        <strong>WhatsApp</strong>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="YOUR_RESUME_LINK_HERE">
-        <img src="https://img.icons8.com/fluency/48/resume.png" width="45" height="45" />
-        <br />
-        <strong>Resume</strong>
-      </a>
-    </td>
+   <td align="center" width="120">
+  <a href="https://wa.me/8801716900294">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="45" height="45" />
+    <br />
+    <strong>WhatsApp</strong>
+  </a>
+</td>
+
+<td align="center" width="120">
+  <a href="https://drive.google.com/file/d/1kWlNDg0pAg1JE2KL1Kn650q5K6uru2I8/view">
+    <img src="https://img.icons8.com/fluency/48/resume.png" width="45" height="45" />
+    <br />
+    <strong>Resume</strong>
+  </a>
+</td>
   </tr>
 </table>
 
