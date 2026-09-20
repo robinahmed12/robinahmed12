@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_RESUME_LINK_HERE">
+<a href="[YOUR_RESUME_LINK_HERE](https://drive.google.com/file/d/1kWlNDg0pAg1JE2KL1Kn650q5K6uru2I8/view?usp=sharing)">
   <img src="https://img.shields.io/badge/Download-Resume-2C5364?style=for-the-badge&logo=readme&logoColor=white" />
 </a>
 
@@ -313,11 +313,11 @@ Consistent improvement is better than waiting for perfection.
   <img src="https://img.shields.io/badge/Follow_Me-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://wa.me/YOUR_WHATSAPP_NUMBER_HERE">
+<a href="https://wa.me/++8801716900294">
   <img src="https://img.shields.io/badge/Chat_on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<a href="YOUR_RESUME_LINK_HERE">
+<a href="[YOUR_RESUME_LINK_HERE](https://drive.google.com/file/d/1kWlNDg0pAg1JE2KL1Kn650q5K6uru2I8/view?usp=sharing)">
   <img src="https://img.shields.io/badge/Download-Resume-2C5364?style=for-the-badge&logo=readme&logoColor=white" />
 </a>
 
